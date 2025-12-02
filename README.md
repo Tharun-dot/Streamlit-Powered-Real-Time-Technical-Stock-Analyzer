@@ -1,14 +1,14 @@
-# 📊 Stock Investment Dashboard
+#  Stock Investment Dashboard
 
 A real-time stock analysis dashboard built with Streamlit that provides technical indicators and trading signals.
 
 ## Features
 
-- 📈 Real-time stock data from Alpha Vantage API
-- 📊 Interactive candlestick charts with technical indicators
-- 🚦 Buy/Sell/Hold signals based on technical analysis
-- 📱 Responsive web interface
-- 🔄 Live data refresh
+- Real-time stock data from Alpha Vantage API
+- Interactive candlestick charts with technical indicators
+- Buy/Sell/Hold signals based on technical analysis
+- Responsive web interface
+- Live data refresh
 
 ## Technical Indicators
 
